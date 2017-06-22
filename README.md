@@ -1,2 +1,7 @@
 # FVM
-Finite Volume Method
+Finite Volumen Methode
+
+Features:
+1-dimensional
+Doppelt Dirichlet Randbedingung
+ZDS und Upwind
